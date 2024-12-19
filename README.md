@@ -5,9 +5,9 @@
 
 ## Blender
 
-**Benda yang dibuat: **Barrel
+**Benda yang dibuat:** Barrel
 
-![Screenshot 2024-12-19 134714](https://github.com/user-attachments/assets/09834e75-8269-4c9e-a571-a5760a3b2bf8)
+![Screenshot 2024-12-19 134714](https://github.com/user-attachments/assets/3bb06f7b-2c4b-49b6-af50-0e56af859c88)
 
 ## Deploy using WebGL
 
